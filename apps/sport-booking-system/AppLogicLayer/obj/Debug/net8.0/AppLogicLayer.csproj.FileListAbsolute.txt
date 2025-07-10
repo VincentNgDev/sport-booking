@@ -1,0 +1,15 @@
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\bin\Debug\net8.0\AppLogicLayer.deps.json
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\bin\Debug\net8.0\AppLogicLayer.runtimeconfig.json
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\bin\Debug\net8.0\AppLogicLayer.dll
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\bin\Debug\net8.0\AppLogicLayer.pdb
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.csproj.AssemblyReference.cache
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.AssemblyInfoInputs.cache
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.AssemblyInfo.cs
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.csproj.CoreCompileInputs.cache
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.sourcelink.json
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.dll
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\refint\AppLogicLayer.dll
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.pdb
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\AppLogicLayer.genruntimeconfig.cache
+C:\Tutorials\DevProjects\SportBook\apps\sport-booking-system\AppLogicLayer\obj\Debug\net8.0\ref\AppLogicLayer.dll

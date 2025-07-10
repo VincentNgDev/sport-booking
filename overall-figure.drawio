@@ -1,0 +1,102 @@
+<mxfile host="Electron" modified="2025-06-05T11:23:44.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YBH-Ds9jtpF5E7vG4weB" version="24.2.5" type="device">
+  <diagram name="Page-1" id="5lkRWK5AgoXQ_sYMU60h">
+    <mxGraphModel dx="3450" dy="2295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aePyREYZ6ETa_nQzrULS-52" value="Sport Booking System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="-380" width="2330" height="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-15" value="&lt;ol&gt;&lt;li&gt;Core Modules&lt;/li&gt;&lt;ul&gt;&lt;li&gt;User management&lt;/li&gt;&lt;li&gt;Role &amp;amp; Module access&lt;/li&gt;&lt;li&gt;Position&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Resource Domain&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Resource Type&lt;/li&gt;&lt;li&gt;Resouces&lt;/li&gt;&lt;li&gt;Location&lt;/li&gt;&lt;li&gt;Booking settings&lt;/li&gt;&lt;li&gt;Bookings&lt;/li&gt;&lt;ul&gt;&lt;li&gt;My bookings&lt;/li&gt;&lt;li&gt;Create bookings&lt;/li&gt;&lt;li&gt;Edit bookings&lt;/li&gt;&lt;li&gt;Cancel Booking&lt;/li&gt;&lt;li&gt;Reschedule Booking&lt;/li&gt;&lt;li&gt;Recurring booking&lt;/li&gt;&lt;li&gt;Admin view all bookings&lt;/li&gt;&lt;li&gt;Admin block booking (recurring booking)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;li&gt;Event Domain&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Competition&lt;/li&gt;&lt;li&gt;Ticketing&lt;/li&gt;&lt;li&gt;Sport event&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Utility &amp;amp; Audit&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Report&lt;/li&gt;&lt;li&gt;Dashboard&lt;/li&gt;&lt;li&gt;Audit Trail&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-52">
+          <mxGeometry x="80" y="70" width="310" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-21" value="Entities" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-52">
+          <mxGeometry x="250" y="820" width="590" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aePyREYZ6ETa_nQzrULS-21" source="aePyREYZ6ETa_nQzrULS-17" target="aePyREYZ6ETa_nQzrULS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-17" value="Position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aePyREYZ6ETa_nQzrULS-21" source="aePyREYZ6ETa_nQzrULS-18" target="aePyREYZ6ETa_nQzrULS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-18" value="Role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="222.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-19" value="Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-26" value="Booking Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="45" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-10" value="Resource Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aePyREYZ6ETa_nQzrULS-21" source="aePyREYZ6ETa_nQzrULS-10" target="aePyREYZ6ETa_nQzrULS-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-11" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Court&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Basketball&lt;/li&gt;&lt;li&gt;Badminton&lt;/li&gt;&lt;li&gt;Futsal&lt;/li&gt;&lt;li&gt;Field&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Service&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Coach&lt;/li&gt;&lt;li&gt;Training&lt;/li&gt;&lt;li&gt;Class&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Gym&lt;/li&gt;&lt;li&gt;Swiming Pool&lt;/li&gt;&lt;li&gt;Other&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="370" y="150" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aePyREYZ6ETa_nQzrULS-21" source="aePyREYZ6ETa_nQzrULS-35" target="aePyREYZ6ETa_nQzrULS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-35" value="Resources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-37" value="Event Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-38" value="Event Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-21">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aePyREYZ6ETa_nQzrULS-52" source="aePyREYZ6ETa_nQzrULS-24" target="aePyREYZ6ETa_nQzrULS-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="890" />
+              <mxPoint x="360" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-24" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-52">
+          <mxGeometry x="40" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-39" value="Tech Stack" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-52">
+          <mxGeometry x="510" y="100" width="650" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-40" value="Frontend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-39">
+          <mxGeometry x="10" y="40" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-41" value="Next Js&lt;div&gt;App Router&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-40">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-42" value="Tailwind Stypling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-40">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-43" value="Next Auth&lt;div&gt;Database Session Management&lt;/div&gt;&lt;div&gt;OAuth&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-40">
+          <mxGeometry x="20" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-44" value="Shadcn UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-40">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-45" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-39">
+          <mxGeometry x="370" y="40" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-47" value="C# ASP.NET Core REST API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-45">
+          <mxGeometry x="65" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-48" value="Entity Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-45">
+          <mxGeometry x="65" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-49" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-39">
+          <mxGeometry x="200" y="290" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aePyREYZ6ETa_nQzrULS-51" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="aePyREYZ6ETa_nQzrULS-39">
+          <mxGeometry x="350" y="290" width="90" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
