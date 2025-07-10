@@ -621,8 +621,8 @@ function HeaderNav() {
         <HeaderLink key={item.href} {...item} />
       ))}
 
-      <Button variant="outline" size="sm" className="hidden md:flex">
-        Sign In
+      <Button asChild variant="outline" size="sm" className="hidden md:flex">
+        <Link href="/login">Sign In</Link>
       </Button>
       <Button size="sm">Get Started</Button>
     </nav>
