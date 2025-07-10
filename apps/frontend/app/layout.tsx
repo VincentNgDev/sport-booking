@@ -4,6 +4,7 @@ import "./globals.css";
 import ProviderComposer from "@/components/providers/provider-composer";
 import { ThemeProvider } from "@/components/providers/theme-provider";
 import { SidebarProvider } from "@/components/ui/sidebar";
+import { AppGlobalProvider } from "./components/app-global-provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -45,6 +46,7 @@ export default function RootLayout({
               },
             ],
             [SidebarProvider],
+            [AppGlobalProvider]
           ]}
         >
           {children}
