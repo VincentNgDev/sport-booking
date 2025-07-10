@@ -1,0 +1,3 @@
+type AppDataTableContext = {
+  propertyName: string;
+};
